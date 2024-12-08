@@ -4,17 +4,7 @@ This repository contains solutions to **Lab 5a**, focusing on PHP programming to
 
 ---
 
-## Table of Contents
 
-1. [Introduction](#introduction)  
-2. [Features](#features)  
-3. [How to Use](#how-to-use)  
-4. [Questions and Solutions](#questions-and-solutions)  
-   - [Question 1](#question-1---display-user-details)  
-   - [Question 2](#question-2---display-students-table)  
-   - [Question 3](#question-3---multiplication-table)  
-5. [Screenshots](#screenshots)  
-6. [License](#license)  
 
 ---
 
@@ -33,4 +23,8 @@ This lab exercise focuses on PHP's ability to handle dynamic data and display it
 - Use of PHP loops (`foreach`) and arrays for data manipulation.
 - Reusability through PHP functions.
 
+## Screenshots 
+![Screenshot 2024-12-08 085602](https://github.com/user-attachments/assets/9b78690e-7dc3-451d-95fd-2bdd0b259212)
+![Screenshot 2024-12-08 085459](https://github.com/user-attachments/assets/7e775482-3de2-421d-8721-187d7f715995)
+![Screenshot 2024-12-08 085317](https://github.com/user-attachments/assets/7f0ebe75-d703-47cf-aa25-5ab7199f8cc2)
 

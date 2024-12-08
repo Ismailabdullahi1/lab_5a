@@ -24,7 +24,10 @@ This lab exercise focuses on PHP's ability to handle dynamic data and display it
 - Reusability through PHP functions.
 
 ## Screenshots 
-![Screenshot 2024-12-08 085602](https://github.com/user-attachments/assets/9b78690e-7dc3-451d-95fd-2bdd0b259212)
-![Screenshot 2024-12-08 085459](https://github.com/user-attachments/assets/7e775482-3de2-421d-8721-187d7f715995)
+-Q1 
 ![Screenshot 2024-12-08 085317](https://github.com/user-attachments/assets/7f0ebe75-d703-47cf-aa25-5ab7199f8cc2)
+-Q2 
+![Screenshot 2024-12-08 085459](https://github.com/user-attachments/assets/7e775482-3de2-421d-8721-187d7f715995)
+-Q3
+![Screenshot 2024-12-08 085602](https://github.com/user-attachments/assets/9b78690e-7dc3-451d-95fd-2bdd0b259212)
 

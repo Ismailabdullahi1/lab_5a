@@ -66,4 +66,4 @@ This lab exercise showcases PHP's ability to handle and display dynamic data in 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/https://github.com/Ismailabdullahi1/lab_5a.git
+   git clone https://github.com/Ismailabdullahi1/lab_5a.git

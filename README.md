@@ -1,4 +1,4 @@
-# Lab 5a - PHP and Web Development 🌐
+# Lab 5a - PHP  🌐
 
 This repository contains solutions for **Lab 5a**, focusing on using PHP to dynamically generate HTML content. Each question demonstrates essential web development techniques, including working with PHP variables, arrays, loops, and functions.
 
